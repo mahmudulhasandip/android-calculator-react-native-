@@ -1,0 +1,3 @@
+rootProject.name = 'Dippid'
+
+include ':app'
